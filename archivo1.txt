@@ -3,4 +3,8 @@ linea 2
 linea 3
 Linea 4
 linea 5
+<<<<<<< HEAD
 linea 8
+=======
+linea 7
+>>>>>>> feature_x
